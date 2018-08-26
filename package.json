@@ -1,0 +1,18 @@
+{
+    "name": "HttpCorsProxy",
+    "version": "1.0.0",
+    "description": "a HttpCorsProxy project",
+    "main": "proxy.js",
+    "scripts": {
+        "start": "node proxy.js"
+    },
+    "keywords": [
+        "HttpCorsProxy"
+    ],
+    "author": "ruiyang",
+    "license": "MIT",
+    "devDependencies": {
+        "http": "*",
+        "http-proxy": "*"
+    }
+}
